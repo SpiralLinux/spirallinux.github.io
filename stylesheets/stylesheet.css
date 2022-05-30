@@ -18,7 +18,7 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: #000000;
+  color: #383838;
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
@@ -54,14 +54,14 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #000000;
+  color: #383838;
   text-align: center;
   background-color: #159957;
   background-image: radial-gradient(#ffffff, #a31a1a); }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 1rem 1rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
